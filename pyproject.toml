@@ -3,7 +3,7 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name="Json2Csv"
+name="json2csv-manu06"
 version = "1.0.0"
 description = "A professional JSON to CSV conversion library"
 readme = "README.md"
