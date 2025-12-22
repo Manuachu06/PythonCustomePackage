@@ -3,14 +3,14 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "json2csv-pro"
+name="Json2Csv"
 version = "1.0.0"
 description = "A professional JSON to CSV conversion library"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Manu C", email = "manuachu0611@gmail.com"}
 ]
 keywords = ["json", "csv", "converter", "data", "conversion"]
 classifiers = [
