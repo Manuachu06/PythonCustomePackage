@@ -1,8 +1,8 @@
 """Tests for DataValidator class."""
 
 import pytest
-from json2csv_pro import DataValidator
-from json2csv_pro.exceptions import ValidationError
+from JSON2CSVLIB import DataValidator
+from JSON2CSVLIB.exceptions import ValidationError
 
 
 class TestDataValidator:

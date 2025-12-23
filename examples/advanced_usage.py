@@ -1,11 +1,11 @@
 """
-Advanced usage examples for json2csv-pro library.
+Advanced usage examples for JSON2CSVLIB library.
 
 This file demonstrates complex use cases and advanced features.
 """
 
-from json2csv_pro import JSONConverter, DataValidator, flatten_json
-from json2csv_pro.exceptions import ValidationError, ConversionError
+from JSON2CSVLIB import JSONConverter, DataValidator, flatten_json
+from JSON2CSVLIB.exceptions import ValidationError, ConversionError
 import json
 
 

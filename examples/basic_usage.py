@@ -1,10 +1,10 @@
 """
-Basic usage examples for json2csv-pro library.
+Basic usage examples for JSON2CSVLIB library.
 
 This file demonstrates simple, everyday use cases.
 """
 
-from json2csv_pro import JSONConverter
+from JSON2CSVLIB import JSONConverter
 
 
 def example_1_simple_conversion():
