@@ -4,7 +4,7 @@ Basic usage examples for JSON2CSVLIB library.
 This file demonstrates simple, everyday use cases.
 """
 
-from JSON2CSVLIB import JSONConverter
+from jsonutils import JSONConverter
 
 
 def example_1_simple_conversion():

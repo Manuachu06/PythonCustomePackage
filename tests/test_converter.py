@@ -5,8 +5,8 @@ import json
 import tempfile
 import os
 from pathlib import Path
-from JSON2CSVLIB import JSONConverter
-from JSON2CSVLIB.exceptions import ConversionError, ValidationError
+from jsonutils import JSONConverter
+from jsonutils.exceptions import ConversionError, ValidationError
 
 
 class TestJSONConverter:

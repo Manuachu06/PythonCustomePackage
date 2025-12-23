@@ -1,11 +1,11 @@
 """
-Advanced usage examples for JSON2CSVLIB library.
+Advanced usage examples for jsonutils library.
 
 This file demonstrates complex use cases and advanced features.
 """
 
-from JSON2CSVLIB import JSONConverter, DataValidator, flatten_json
-from JSON2CSVLIB.exceptions import ValidationError, ConversionError
+from jsonutils import JSONConverter, DataValidator, flatten_json
+from jsonutils.exceptions import ValidationError, ConversionError
 import json
 
 

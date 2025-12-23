@@ -3,7 +3,7 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name="JSON2CSVLIB"
+name="jsonutils"
 version = "1.0.0"
 description = "A professional JSON to CSV conversion library"
 readme = "README.md"
@@ -26,9 +26,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/json2csv-pro"
+Homepage = "https://github.com/Manuachu06/PythonCustomePackage/tree/main/JSON2CSVLIB"
 Documentation = "https://json2csv-pro.readthedocs.io"
-Repository = "https://github.com/yourusername/json2csv-pro"
+Repository = "https://github.com/Manuachu06/PythonCustomePackage"
 "Bug Tracker" = "https://github.com/yourusername/json2csv-pro/issues"
 
 [tool.black]

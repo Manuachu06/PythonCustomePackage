@@ -1,4 +1,4 @@
-"""Setup configuration for json2csv-pro."""
+"""Setup configuration for jsonutils."""
 
 from setuptools import setup, find_packages
 from pathlib import Path
@@ -8,7 +8,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text(encoding='utf-8')
 
 setup(
-    name="JSON2CSVLIB",
+    name="jsonutils",
     version="1.0.0",
     author="Manu c",
     author_email="manuachu0611@gmail.com",
@@ -44,7 +44,7 @@ setup(
         ],
     },
     package_data={
-        "json2csv_pro": ["py.typed"],
+        "jsonutils": ["py.typed"],
     },
     keywords="json csv converter data conversion flatten nested",
     project_urls={
