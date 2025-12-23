@@ -15,7 +15,7 @@ setup(
     description="A professional JSON to CSV conversion library with advanced features",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/json2csv-pro",
+    url="https://github.com/Manuachu06/PythonCustomePackage",
     packages=find_packages(exclude=["tests", "examples", "docs"]),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
