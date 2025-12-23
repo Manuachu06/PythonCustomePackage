@@ -2,7 +2,7 @@
 
 ## File: `README.md`
 ```markdown
-# json2csv-pro
+# arcolabutils
 
 A professional, feature-rich Python library for converting JSON data to CSV format with advanced capabilities.
 
@@ -20,13 +20,13 @@ A professional, feature-rich Python library for converting JSON data to CSV form
 ## Installation
 
 ```bash
-pip install json2csv-pro
+pip install  arcolabutils
 ```
 
 ## Quick Start
 
 ```python
-from json2csv_pro import JSONConverter
+from arcolabutils import JSONConverter
 
 # Create converter instance
 converter = JSONConverter()
