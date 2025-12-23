@@ -1,8 +1,8 @@
 """Tests for DataValidator class."""
 
 import pytest
-from arcolabutils import DataValidator
-from arcolabutils.exceptions import ValidationError
+from ArcoJson import DataValidator
+from ArcoJson.exceptions import ValidationError
 
 
 class TestDataValidator:

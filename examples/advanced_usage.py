@@ -4,8 +4,8 @@ Advanced usage examples for jsonutils library.
 This file demonstrates complex use cases and advanced features.
 """
 
-from arcolabutils import JSONConverter, DataValidator, flatten_json
-from arcolabutils.exceptions import ValidationError, ConversionError
+from ArcoJson import JSONConverter, DataValidator, flatten_json
+from ArcoJson.exceptions import ValidationError, ConversionError
 import json
 
 

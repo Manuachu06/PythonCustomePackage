@@ -5,8 +5,8 @@ import json
 import tempfile
 import os
 from pathlib import Path
-from arcolabutils import JSONConverter
-from arcolabutils.exceptions import ConversionError, ValidationError
+from ArcoJson import JSONConverter
+from ArcoJson.exceptions import ConversionError, ValidationError
 
 
 class TestJSONConverter:

@@ -1,7 +1,7 @@
 """Tests for utility functions."""
 
 import pytest
-from arcolabutils.utils import flatten_json, detect_delimiter
+from ArcoJson.utils import flatten_json, detect_delimiter
 
 
 class TestFlattenJSON:

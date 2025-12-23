@@ -2,7 +2,7 @@
 
 ## File: `README.md`
 ```markdown
-# arcolabutils
+# ArcoJson
 
 A professional, feature-rich Python library for converting JSON data to CSV format with advanced capabilities.
 
@@ -20,13 +20,13 @@ A professional, feature-rich Python library for converting JSON data to CSV form
 ## Installation
 
 ```bash
-pip install  arcolabutils
+pip install  ArcoJson
 ```
 
 ## Quick Start
 
 ```python
-from arcolabutils import JSONConverter
+from ArcoJson import JSONConverter
 
 # Create converter instance
 converter = JSONConverter()
