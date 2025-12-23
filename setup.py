@@ -8,10 +8,10 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text(encoding='utf-8')
 
 setup(
-    name="json2csv-manu06",
+    name="JSON2CSVLIB",
     version="1.0.0",
     author="Manu c",
-    author_email="your.email@example.com",
+    author_email="manuachu0611@gmail.com",
     description="A professional JSON to CSV conversion library with advanced features",
     long_description=long_description,
     long_description_content_type="text/markdown",
